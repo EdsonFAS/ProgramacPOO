@@ -1,0 +1,15 @@
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\bin\Debug\net7.0\Voo_passagens.exe
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\bin\Debug\net7.0\Voo_passagens.deps.json
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\bin\Debug\net7.0\Voo_passagens.runtimeconfig.json
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\bin\Debug\net7.0\Voo_passagens.dll
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\bin\Debug\net7.0\Voo_passagens.pdb
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\obj\Debug\net7.0\Voo_passagens.csproj.AssemblyReference.cache
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\obj\Debug\net7.0\Voo_passagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\obj\Debug\net7.0\Voo_passagens.AssemblyInfoInputs.cache
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\obj\Debug\net7.0\Voo_passagens.AssemblyInfo.cs
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\obj\Debug\net7.0\Voo_passagens.csproj.CoreCompileInputs.cache
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\obj\Debug\net7.0\Voo_passagens.dll
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\obj\Debug\net7.0\refint\Voo_passagens.dll
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\obj\Debug\net7.0\Voo_passagens.pdb
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\obj\Debug\net7.0\Voo_passagens.genruntimeconfig.cache
+C:\Users\edf3r\source\repos\Voo_passagens\Voo_passagens\obj\Debug\net7.0\ref\Voo_passagens.dll
