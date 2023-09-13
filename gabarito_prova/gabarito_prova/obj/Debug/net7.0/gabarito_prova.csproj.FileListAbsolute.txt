@@ -1,0 +1,15 @@
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\bin\Debug\net7.0\gabarito_prova.exe
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\bin\Debug\net7.0\gabarito_prova.deps.json
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\bin\Debug\net7.0\gabarito_prova.runtimeconfig.json
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\bin\Debug\net7.0\gabarito_prova.dll
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\bin\Debug\net7.0\gabarito_prova.pdb
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\obj\Debug\net7.0\gabarito_prova.csproj.AssemblyReference.cache
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\obj\Debug\net7.0\gabarito_prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\obj\Debug\net7.0\gabarito_prova.AssemblyInfoInputs.cache
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\obj\Debug\net7.0\gabarito_prova.AssemblyInfo.cs
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\obj\Debug\net7.0\gabarito_prova.csproj.CoreCompileInputs.cache
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\obj\Debug\net7.0\gabarito_prova.dll
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\obj\Debug\net7.0\refint\gabarito_prova.dll
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\obj\Debug\net7.0\gabarito_prova.pdb
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\obj\Debug\net7.0\gabarito_prova.genruntimeconfig.cache
+C:\Users\edf3r\source\repos\gabarito_prova\gabarito_prova\obj\Debug\net7.0\ref\gabarito_prova.dll
