@@ -1,0 +1,15 @@
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\bin\Debug\net7.0\att_pedagio.exe
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\bin\Debug\net7.0\att_pedagio.deps.json
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\bin\Debug\net7.0\att_pedagio.runtimeconfig.json
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\bin\Debug\net7.0\att_pedagio.dll
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\bin\Debug\net7.0\att_pedagio.pdb
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\obj\Debug\net7.0\att_pedagio.csproj.AssemblyReference.cache
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\obj\Debug\net7.0\att_pedagio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\obj\Debug\net7.0\att_pedagio.AssemblyInfoInputs.cache
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\obj\Debug\net7.0\att_pedagio.AssemblyInfo.cs
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\obj\Debug\net7.0\att_pedagio.csproj.CoreCompileInputs.cache
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\obj\Debug\net7.0\att_pedagio.dll
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\obj\Debug\net7.0\refint\att_pedagio.dll
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\obj\Debug\net7.0\att_pedagio.pdb
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\obj\Debug\net7.0\att_pedagio.genruntimeconfig.cache
+C:\Users\2022202060017\source\repos\att_pedagio\att_pedagio\obj\Debug\net7.0\ref\att_pedagio.dll
